@@ -58,7 +58,7 @@ A comprehensive web-based solution for managing retail operations, designed spec
 - **Mongoose 8.16.0** - MongoDB ODM
 
 ### **Deployment & DevOps**
-- **Frontend**: Vercel (Production-ready deployment)
+- **Frontend**: [Vercel](https://biiling-stock-mangement.vercel.app/) (Production-ready deployment)
 - **Backend**: Render (Cloud hosting)
 - **Database**: MongoDB Atlas (Cloud database)
 - **Version Control**: Git with GitHub
@@ -101,7 +101,7 @@ A comprehensive web-based solution for managing retail operations, designed spec
    ```
 
 4. **Access the Application**
-   - Frontend: [http://localhost:3000], https://biiling-stock-mangement-9wfj.vercel.app/
+   - Frontend: [http://localhost:3000](http://localhost:3000) | 🌐 Live: [https://biiling-stock-mangement.vercel.app/](https://biiling-stock-mangement.vercel.app/)
    - Backend API: http://localhost:5000, https://biiling-stock-mangement.onrender.com
 
 ## 🏗️ Project Structure
