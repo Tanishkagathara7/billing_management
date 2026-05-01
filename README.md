@@ -216,7 +216,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: ragraichura12@gmail.com
+- 📧 Email: kagatharatanish@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/your-username/billing-stock-management/issues)
 - 📚 Documentation: [Wiki](https://github.com/your-username/billing-stock-management/wiki)
 
